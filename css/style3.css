@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 80%;
+  height: 250px;
+}
+
+.mean {
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid black;
+  padding-bottom: 15px;
+}
+
+.one {
+  color: blue;
+}
+
+.footer {
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid black;
+}

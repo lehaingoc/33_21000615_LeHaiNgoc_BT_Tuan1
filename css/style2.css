@@ -1,0 +1,15 @@
+body {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.abc {
+  width: 400px;
+  height: 100px;
+  padding-bottom: 20px;
+}
+.borderImg {
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid #000;
+}
